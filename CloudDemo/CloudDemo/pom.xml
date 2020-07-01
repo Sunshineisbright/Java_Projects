@@ -22,7 +22,7 @@
         <aspectjweaver-version>1.9.3</aspectjweaver-version>
         <apache.poi-version>3.14</apache.poi-version>
         <pagehelper-version>5.1.2-beta</pagehelper-version>
-        <mysql-version>5.1.6</mysql-version>
+        <mysql-version>8.0.16</mysql-version>
         <mybatis.spring-version>1.2.3</mybatis.spring-version>
         <mybatis-version>3.1.1</mybatis-version>
         <javassist-version>3.25.0-GA</javassist-version>
