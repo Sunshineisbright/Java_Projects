@@ -48,7 +48,7 @@
         <lombok-version>1.16.18</lombok-version>
         <c3p0-version>0.9.1.2</c3p0-version>
         <cglib-version>3.2.5</cglib-version>
-        <apache.ant-version>1.10.2</apache.ant-version>
+        <apache.ant-version>1.10.8</apache.ant-version>
         <apache.taglibs-version>1.2.5</apache.taglibs-version>
     </properties>
 
