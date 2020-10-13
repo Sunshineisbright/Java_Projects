@@ -29,7 +29,7 @@
         <ow2.asm-version>7.0</ow2.asm-version>
         <ognl-version>3.1</ognl-version>
         <org.slf4j-version>1.7.25</org.slf4j-version>
-        <junit-version>4.12</junit-version>
+        <junit-version>4.13.1</junit-version>
         <jstl-version>1.2</jstl-version>
         <jsqlparser-version>1.0</jsqlparser-version>
         <jackson-version>1.2.7</jackson-version>
