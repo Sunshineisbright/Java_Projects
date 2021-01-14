@@ -20,7 +20,7 @@
         <spring-version>4.1.3.RELEASE</spring-version>
         <aopalliance-version>1.0</aopalliance-version>
         <aspectjweaver-version>1.9.3</aspectjweaver-version>
-        <apache.poi-version>3.14</apache.poi-version>
+        <apache.poi-version>3.17</apache.poi-version>
         <pagehelper-version>5.1.2-beta</pagehelper-version>
         <mysql-version>5.1.6</mysql-version>
         <mybatis.spring-version>1.2.3</mybatis.spring-version>
