@@ -24,7 +24,7 @@
         <pagehelper-version>5.1.2-beta</pagehelper-version>
         <mysql-version>5.1.6</mysql-version>
         <mybatis.spring-version>1.2.3</mybatis.spring-version>
-        <mybatis-version>3.1.1</mybatis-version>
+        <mybatis-version>3.5.6</mybatis-version>
         <javassist-version>3.25.0-GA</javassist-version>
         <ow2.asm-version>7.0</ow2.asm-version>
         <ognl-version>3.1</ognl-version>
